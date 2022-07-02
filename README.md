@@ -1,6 +1,6 @@
-# AulaAngular2
+# Aula de Angular [DIO]
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+Esse projeto foi gerado pelo [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
 
